@@ -1,0 +1,64 @@
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+h1 {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    text-align: left;
+    color: #1e212c;
+}
+.text {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1e212c;
+    text-align: left;
+}
+.block_text {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.text-2 {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1e212c;
+    text-align: left;
+}
+.text-3 {
+    font-family: lato;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+    text-align: left;
+}
+.list {
+    font-family: lato;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+    text-indent: 30px;
+}
+.text-3 {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+}
